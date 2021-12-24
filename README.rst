@@ -1,40 +1,43 @@
-AlertOps Expert Guidance
+Key Incident Management Predictions for 2018
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+2018 has arrived, and many IT professionals likely are hard at work mapping out their incident management strategies for the new year. As IT professionals search for ways to limit downtime and outages in 2018, it may be best to understand which key trends are worth watching in the months to come.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+To help you prepare for the new year, let’s take a look at three incident management predictions for 2018.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    Business leaders will prioritize automation. 
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Few business leaders have significant time and resources at their disposal. Meanwhile, the costs associated with incident management are on the rise, a trend that appears likely to continue in the foreseeable future.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Let’s not forget about the shortage of talented IT professionals available to businesses, either. Global employers rank IT roles among the most difficult jobs to fill, according to a survey of 42,300 companies conducted by workforce solutions provider ManpowerGroup. Companies big and small constantly compete for top talent, and today’s business leaders must find innovative ways to differentiate their respective organizations from the competition. Otherwise, business leaders risk missing out on top talent, which may cause their respective companies to fall behind rivals.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Ultimately, automation can help business leaders reduce the risk of downtime and outages without breaking their budgets. Incident management software with automatic escalation capabilities, for example, allows IT professionals to set up workflows to automatically escalate alerts to a manager after a set period of time – even while on-call staff members are still being alerted. This ensures fast, efficient incident response and enables IT professionals to further minimize the risk of lengthy downtime and outages.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+2. Collaboration will drive the top businesses.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+A recent Stanford University study revealed individuals who work together reported higher engagement levels, lower fatigue levels and higher overall success rates than those who worked alone. This indicates collaboration is paramount, particularly for IT professionals who want to achieve the best-possible results.
 
-1 Red Canary 2021 Threat Detection Report
+Collaboration may serve as a top priority for departments across a business, including incident management. In fact, IT professionals who work together may be better equipped than ever before to stop incidents before they happen.
+
+Of course, collaboration and communication go hand-in-hand. Without the right communication platforms in place, IT professionals are unlikely to accomplish their day-to-day goals.
+
+An alert management system that promotes real-time collaboration and communication could make or break a company’s incident management strategy. And if IT professionals can quickly and effortlessly keep one another up to date in a crisis, they should have no trouble working together to resolve an incident.
+
+3. Role-based security will come into focus.
+
+Insider threats are becoming major problems for businesses around the globe. Yet few companies understand what it takes to identify and address such issues.
+
+In 2018, role-based security may come into play. If businesses can track employee activities across internal systems, these companies can hold workers accountable for their actions. Perhaps most important, companies that deploy role-based security measures can learn about assorted security threats and take the necessary steps to prevent these problems from escalating.
+
+Role-based security is an important feature to consider relative to incident management software too. The ideal alert management software makes it simple to assign IT professionals to specific security roles as needed. That way, business leaders can leverage this software to limit user actions based on their roles, receive notifications any time user security changes are made and much more.
+
+2018 should be a year to remember for all the right reasons. However, subpar incident management software can put a major strain on a company’s time and resources. The software may even cause IT professionals to miss important alerts related to downtime, outages and other critical incidents.
+
+Don’t let critical incidents get the best of your business in 2018 and beyond. Deploy an effective incident management and alerting system today, and your company can get the help it needs to control critical incidents before they get out of hand.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/incident-management-predictions-2018/
 
 Read more:
 ====
